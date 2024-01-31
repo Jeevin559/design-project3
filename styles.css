@@ -1,0 +1,112 @@
+body {
+    background-color: black;
+    width: 100px;
+}
+.Michaeldidthis {
+    position: absolute;
+    left: 655px;
+    top: 100px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: xx-large;
+    z-index: 2;
+    
+}
+.thiswasdonebyMichael {
+    position: absolute;
+    left: 560px;
+    top: 160px;
+    z-index: 3;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.class {
+    position: absolute;
+    left: 700px;
+    top: 230px;
+}
+
+table {
+    width: 1700px;
+    margin-left: 100px
+}
+
+button {
+ background-color: rgb(235, 34, 34);
+ border-radius: 0px;
+ font-size:18px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ border: 2px solid black; 
+ position: absolute;
+ top: 33px;
+ width: 200px;
+ height: 40px;
+}
+
+img { 
+position: absolute;
+left: 92%;
+}
+.noahrules {
+    position: absolute;
+    left: 435px;
+    top: 250px
+}
+
+#williamduquette {
+    position: absolute;
+    left: 1100px;
+}
+
+#noahisalegend {
+    position: absolute;
+    left: 550px
+}
+
+#mrkatzisgood {
+    position: absolute;
+}
+.MP {
+    background-color: black;
+}
+.justinhabib {
+    position: relative;
+    left: 15px;
+}
+footer {
+    position: absolute;
+    top: 700px;
+    color: white;
+    left: 40%;
+}
+#MPdidthis {
+    position: absolute;
+    top: 33px;
+    left: 120px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+}
+#helpjeevin {
+    position: absolute;
+    left: 370px;
+    top: 33px;
+    border-radius: 10px;
+}
+#michaelphan {
+    position: absolute;
+    top: 33px;
+    border-radius: 10px;
+    left: 620px;
+}
+#somethingmichaeldid {
+    position: absolute;
+    top: 33px;
+    border-radius: 10px;
+    left: 870px;
+}
+#michaelhelpsjeevintoomuch{
+    position: absolute;
+    top: 33px;
+    border-radius: 10px;
+    left: 1120px;
+}
